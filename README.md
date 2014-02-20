@@ -1,7 +1,7 @@
-Estudio Algoritmos Ant Colony Optimization en TSP
+Ant Colony Optimization en TSP
 =================================================
 
-A short research about 8 Ant Colony Optimization algorithms (ACO) for the Traveling Salesman Problem (TSP). Done as an univesity assigment.
+A short research about 8 Ant Colony Optimization algorithms (ACO) for the Traveling Salesman Problem (TSP). Carried out as an univesity assigment.
 
 Este documento analiza el comportamiento de 8 algoritmos de colonias de hormigas distintos para resolver el problema del viajero (TSP).
 
