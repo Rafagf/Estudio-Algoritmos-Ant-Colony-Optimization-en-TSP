@@ -20,9 +20,9 @@ Este documento analiza el comportamiento de 8 algoritmos de colonias de hormigas
 
 Rafael García Fernández
 
-* _University of Granada (UGR)_
-* http://github.com/rafagf
+* GitHub: http://github.com/rafagf
 * Email: rafagarfer@gmail.com
+* Linkedin: http://uk.linkedin.com/in/rafaelgarciafernandez
 
 ## Copyright and license
 
